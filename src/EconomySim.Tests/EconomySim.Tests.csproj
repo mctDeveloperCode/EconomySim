@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EconomySim\EconomySim.csproj" />
+  </ItemGroup>
+
 </Project>
